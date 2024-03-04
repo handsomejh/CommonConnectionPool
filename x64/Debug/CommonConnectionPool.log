@@ -1,0 +1,9 @@
+﻿cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  Connection.cpp
+  main.cpp
+D:\Desktop\C++项目\CommonConnectionPool\main.cpp(31,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\C++项目\CommonConnectionPool\main.cpp(48,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\C++项目\CommonConnectionPool\main.cpp(65,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\C++项目\CommonConnectionPool\main.cpp(82,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  CommonConnectionPool.vcxproj -> D:\Desktop\C++项目\CommonConnectionPool\x64\Debug\CommonConnectionPool.exe
